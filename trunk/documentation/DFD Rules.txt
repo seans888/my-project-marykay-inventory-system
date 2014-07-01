@@ -1,0 +1,10 @@
+Data flow diagram rules:
+1.)7+-2 Rule (Minimum of 5 and maimun of 9)
+2.)Eutilities shall only be seen in level 0 only.
+3.)Labels shall be Verb Phrases.
+4.)Process can have 1 or more incoming data flow and 1 or more outgoing data flow.
+5.)Process can conecct to another process
+6.)Arrows depict movement of data.
+7.)Data store Labels should be Noun Phrases
+8.)Data store must have one incoming and one outgoing data flow
+9.)Entity labels should be noun phrases.
